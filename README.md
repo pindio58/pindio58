@@ -7,4 +7,3 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... Data Sceince projects
 - 🤔 I’m looking for help with ... small projects
 
--->
