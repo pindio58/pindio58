@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Bhupinderjit Singh(Jeet)</h1>
 <h3 align="center">Passionate Python,SQL, PL/SQL Developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/pindio58](https://github.com/pindio58)
+- 👨‍💻 All of my projects are available at [my Github profile](https://github.com/pindio58)
 
 - 📫 You can reach me at **pindio13@gmail.com**
 
