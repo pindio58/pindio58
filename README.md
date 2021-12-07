@@ -5,7 +5,7 @@
 
 - 📫 You can reach me at **pindio13@gmail.com**
 
-<img src="https://github.com/pindio58/oracle_learning/blob/main/teahub.io-elon-musk-wallpaper-594590.png?raw=true" alt="drawing" width="400" align="right"/>
+<img src="https://github.com/pindio58/pindio58/blob/main/teahub.io-elon-musk-wallpaper-594590.png?raw=true" alt="drawing" width="400" align="right"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
