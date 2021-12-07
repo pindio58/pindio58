@@ -1,11 +1,13 @@
 <h1 align="center">Hi there, I'm Bhupinderjit (Jeet) Singh</h1>
 <h3 align="center">Passionate Python,SQL, PL/SQL Developer</h3>
 
-- 👨‍💻 All of my projects are available at [my Github profile](https://github.com/pindio58)
+- All of my projects are available at [my Github profile](https://github.com/pindio58)
 
-- 📫 You can reach me at **pindio13@gmail.com**
+- You can reach me at **pindio13@gmail.com**
 
-<img src="https://github.com/pindio58/pindio58/blob/main/teahub.io-elon-musk-wallpaper-594590.png?raw=true" alt="drawing" width="400" align="right"/>
+<!-- <img src="https://github.com/pindio58/pindio58/blob/main/teahub.io-elon-musk-wallpaper-594590.png?raw=true" alt="drawing" width="400" align="right"/> -->
+<!-- ![alt text](img/timechange.gif) -->
+<img src="img/timechange.gif?raw=true" alt="drawing" width="400" align="right"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
