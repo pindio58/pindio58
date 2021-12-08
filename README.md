@@ -3,6 +3,9 @@
 
 <!--   ## Profile Views: [![HitCount](http://hits.dwyl.com/pindio58/pindio58.svg?style=flat)](http://hits.dwyl.com/pindio58/pindio58) -->
 <!-- ## Profile Views: ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fpindio58%2Fhit-counter) -->
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpindio58%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views%28Daily%2FTotal%29&edge_flat=false)](https://hits.seeyoufarm.com) -->
+
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpindio58%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views%28Daily%2FTotal%29&edge_flat=false)](https://hits.seeyoufarm.com)
 
 - All of my projects are available at [my Github profile](https://github.com/pindio58)
