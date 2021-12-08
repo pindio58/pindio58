@@ -1,6 +1,8 @@
 <h1 align="center">Hi there, I'm Bhupinderjit (Jeet) Singh</h1>
 <h3 align="center">Passionate Python,SQL, PL/SQL Developer</h3>
 
+  ## Profile Views: [![HitCount](http://hits.dwyl.com/pindio58/pindio58.svg?style=flat-square)](http://hits.dwyl.com/pindio58/pindio58)
+
 - All of my projects are available at [my Github profile](https://github.com/pindio58)
 
 - You can reach me at **pindio13@gmail.com**
