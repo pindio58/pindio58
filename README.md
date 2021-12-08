@@ -1,7 +1,8 @@
 <h1 align="center">Hi there, I'm Bhupinderjit (Jeet) Singh</h1>
 <h3 align="center">Passionate Python,SQL, PL/SQL Developer</h3>
 
-  ## Profile Views: [![HitCount](http://hits.dwyl.com/pindio58/pindio58.svg?style=flat-square)](http://hits.dwyl.com/pindio58/pindio58)
+<!--   ## Profile Views: [![HitCount](http://hits.dwyl.com/pindio58/pindio58.svg?style=flat-square)](http://hits.dwyl.com/pindio58/pindio58) -->
+## Profile Views: ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fpindio58%2Fhit-counter)
 
 - All of my projects are available at [my Github profile](https://github.com/pindio58)
 
